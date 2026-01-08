@@ -152,7 +152,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-100 dark:from-[#0f172a] dark:via-[#1e293b] dark:to-[#0f172a] relative transition-colors duration-300 overflow-x-hidden max-w-full flex flex-col">
+    <div className="min-h-screen bg-yellow-200 dark:bg-yellow-200 relative transition-colors duration-300 overflow-x-hidden max-w-full flex flex-col">
       <TradingBackground />
       {/* Header */}
       <header className="bg-white/80 dark:bg-[#0B1121]/70 backdrop-blur-xl border-b border-gray-200 dark:border-white/5 sticky top-0 z-50 shadow-sm dark:shadow-[0_4px_24px_-4px_rgba(0,0,0,0.3)] transition-colors duration-300">
